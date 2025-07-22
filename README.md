@@ -1,1 +1,1 @@
-init repo
+### This comprehensive repo contains RAG techniques
