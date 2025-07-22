@@ -6,7 +6,9 @@ In conclusion, RAG is a technique that enhances the capabilities of LLMs by comb
 ### Why?
 - LLMs can't access confidential (private data), uncommon(specific data), or up-to-date information. This approach addresses LLM limitations, such as producing outdated information or hallucinations.
 ### How?
-- Traditional LLMs:
-!(../assets/LLMs.png)
+- Traditional LLMs: 
+
+![](../assets/LLMs.png)
 - RAG:
-![[Pasted image 20250722180337.png]]
+
+![](../assets/RAGs.png)
