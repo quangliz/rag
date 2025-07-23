@@ -1,6 +1,8 @@
-fitz
+dotenv
+pymupdf
+# fitz
 numpy
-openai
+# openai # uncommnet this if you use OpenAI API
 requests
 rank-bm25
 scikit-learn
@@ -17,3 +19,4 @@ pyvis
 datasets
 transformers
 accelerate
+google-genai
