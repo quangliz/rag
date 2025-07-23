@@ -1,5 +1,5 @@
 ### API
-I use Google Gemini API in this repo because I can't afford OpenAI API
+I use Google Gemini API in this repo because I can't afford OpenAI API, but OpenAI compatible version will be included
 
 ### Usage
 1. Clone this repo
