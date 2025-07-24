@@ -11,3 +11,4 @@ cd rag
 ```bash
 pip install -r requirements.txt
 ```
+3. Modify conf.env

@@ -20,3 +20,4 @@ datasets
 transformers
 accelerate
 google-genai
+torch
