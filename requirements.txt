@@ -2,7 +2,7 @@ dotenv
 pymupdf
 # fitz
 numpy
-# openai # uncommnet this if you use OpenAI API
+# openai # uncomment this if you use OpenAI API
 requests
 rank-bm25
 scikit-learn
